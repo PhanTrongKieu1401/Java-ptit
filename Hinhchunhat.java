@@ -9,7 +9,6 @@ package baitapjava;
  * @author DELL
  */
 import java.util.Scanner;
-import java.Math;
 public class Hinhchunhat {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
